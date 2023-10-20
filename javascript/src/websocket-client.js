@@ -3,7 +3,7 @@ import { assert, loadRequirements, randId, waitFor } from "./utils.js";
 import { getRTCService, registerRTCService } from "./webrtc-client.js";
 
 export { RPC, API_VERSION };
-export { version as VERSION } from "../../package.json";
+export { version as VERSION } from "../package.json";
 export { loadRequirements };
 export { getRTCService, registerRTCService };
 
