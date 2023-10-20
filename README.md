@@ -1,5 +1,5 @@
 ![License](https://img.shields.io/github/license/imjoy-team/imjoy-hypha.svg)
-![Build ImJoy RPC](https://github.com/imjoy-team/imjoy-hypha/workflows/Build%20ImJoy%20RPC/badge.svg)
+![Build ImJoy Hypha](https://github.com/imjoy-team/imjoy-hypha/workflows/Build%20ImJoy%20Hypha/badge.svg)
 ![PyPI](https://img.shields.io/pypi/v/imjoy-hypha.svg?style=popout)
 
 # ImJoy Hypha
